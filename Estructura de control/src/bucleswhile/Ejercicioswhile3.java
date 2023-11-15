@@ -15,7 +15,7 @@ public class Ejercicioswhile3 {
 		
 		int i = 1;
 		
-		int repes = 1;
+		int repes = 0;
 		
 		while(num > i) {
 			

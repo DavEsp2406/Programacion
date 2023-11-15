@@ -2,12 +2,17 @@ package ifelse;
 import java.util.Scanner;
 
 public class Ejerciciosifelse5 {
+	
+	/**
+	 * Juego 1 100 if else
+	 * @param args
+	 */
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		
-System.out.println("Introduzca un número");
+        System.out.println("Introduzca un número");
 		
 		Scanner sc = new Scanner (System.in);
 		

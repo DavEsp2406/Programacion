@@ -14,13 +14,13 @@ public class Ejerciciosfor1 {
 		
 		int num = sc.nextInt();
 		
-		
+		sc.close();
 		
 		for(int i = 1; i <= num; i++) {
 			System.out.print(i + " ");
 		}
 		
-
+		
 	}
 
 }

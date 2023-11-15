@@ -19,7 +19,5 @@ public class Ejercicioswhile1 {
 			System.out.print(i + " ");
 			i++;
 		}
-		
 	}
-
 }
